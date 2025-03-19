@@ -99,7 +99,7 @@ strong {
 /* #region job */
 .job {
   margin-top: 24px;
-  border-left: 1px dashed #DEE2ED;
+  border-left: none;
   padding-left: 8px;
 }
 
@@ -124,7 +124,7 @@ strong {
 /* #region study */
 .study {
   margin-top: 24px;
-  border-left: 1px dashed #DEE2ED;
+  border-left: none;
   padding-left: 8px;
 }
 
@@ -155,7 +155,7 @@ strong {
   box-sizing: border-box;
   width: 50%;
   margin: 0;
-  border-left: 1px dashed #DEE2ED;
+  border-left: none;
   padding-left: 8px;
   list-style: none;
 }
@@ -178,7 +178,7 @@ strong {
   box-sizing: border-box;
   width: 50%;
   margin: 0;
-  border-left: 1px dashed #DEE2ED;
+  border-left: none;
   padding-left: 8px;
   list-style: none;
 }
