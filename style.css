@@ -99,7 +99,7 @@ strong {
 /* #region job */
 .job {
   margin-top: 24px;
-  border-left: none;
+  border-left: 1px dashed #DEE2ED;
   padding-left: 8px;
 }
 
