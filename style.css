@@ -155,7 +155,7 @@ strong {
   box-sizing: border-box;
   width: 50%;
   margin: 0;
-  border-left: none;
+  border-left: 1px dashed #DEE2ED;
   padding-left: 8px;
   list-style: none;
 }
@@ -178,7 +178,7 @@ strong {
   box-sizing: border-box;
   width: 50%;
   margin: 0;
-  border-left: none;
+  border-left: 1px dashed #DEE2ED;
   padding-left: 8px;
   list-style: none;
 }
