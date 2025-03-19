@@ -78,7 +78,7 @@ strong {
 .info {
   border-top: none;
   padding: 24px 0;
-
+  border-left: 1px dashed #DEE2ED;
   display: flex;
   justify-content: space-between;
 }
