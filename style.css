@@ -76,9 +76,9 @@ strong {
 
 /* #region info */
 .info {
-  border-top: none;
+  border-top: 1px solid #DEE2ED;
   padding: 24px 0;
-  border-left: 1px dashed #DEE2ED;
+  border-left: none;
   display: flex;
   justify-content: space-between;
 }
