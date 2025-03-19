@@ -68,6 +68,12 @@ strong {
 }
 /* #endregion */
 
+.contacts__linkB {
+  color: #D3D3D3;
+  text-decoration: none;
+}
+/* #endregion */
+
 /* #region info */
 .info {
   border-top: 1px solid #DEE2ED;
