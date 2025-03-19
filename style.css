@@ -76,7 +76,7 @@ strong {
 
 /* #region info */
 .info {
-  border-top: 1px solid #DEE2ED;
+  border-top: none;
   padding: 24px 0;
 
   display: flex;
@@ -99,7 +99,7 @@ strong {
 /* #region job */
 .job {
   margin-top: 24px;
-  border-left: 1px dashed #DEE2ED;
+  border-left: none;
   padding-left: 8px;
 }
 
